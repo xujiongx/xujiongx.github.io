@@ -17,6 +17,7 @@ module.exports = {
         content: "width=device-width,initial-scale=1,user-scalable=no",
       },
     ],
+    ['link', { rel: 'manifest', href: '/manifest.json' }],
   ],
   theme: "reco",
   themeConfig: {
@@ -56,7 +57,7 @@ module.exports = {
     sidebar: {
       "/work/theme-reco/": ["", "theme", "plugin", "api"],
     },
-    subSidebar: 'auto',
+    subSidebar: "auto",
     type: "blog",
     blogConfig: {
       category: {
@@ -90,6 +91,10 @@ module.exports = {
     lineNumbers: true,
   },
   plugins: [
+    ['@vuepress/pwa', {
+      serviceWorker: true,
+      updatePopup: true
+  }],
     [
       "@vuepress-reco/vuepress-plugin-kan-ban-niang",
       {
@@ -119,7 +124,7 @@ module.exports = {
             cover: "https://assets.smallsunnyfox.com/music/3.jpg",
           },
         ],
-        autoShrink:true
+        autoShrink: true,
       },
     ],
     //回引起板娘大小发生变化
