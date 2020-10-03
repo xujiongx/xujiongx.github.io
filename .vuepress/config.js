@@ -1,7 +1,7 @@
 module.exports = {
   title: "断舍离",
   description: "热爱生命，简约生活",
-  dest: "dist",
+  dest: "docs",
   head: [
     [
       "link",
@@ -54,7 +54,7 @@ module.exports = {
       },
     ],
     sidebar: {
-      "/docs/theme-reco/": ["", "theme", "plugin", "api"],
+      "/work/theme-reco/": ["", "theme", "plugin", "api"],
     },
     subSidebar: 'auto',
     type: "blog",
