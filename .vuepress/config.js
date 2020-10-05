@@ -58,6 +58,10 @@ module.exports = {
       "/work/theme-reco/": ["", "theme", "plugin", "api"],
     },
     subSidebar: "auto",
+    valineConfig: {
+      appId: 'dlIt7xiOoRxm2x2b119OvevE-gzGzoHsz',// your appId
+      appKey: 'sYzRMRdAPeiSQcnWY0ahBkrL', // your appKey
+    },
     type: "blog",
     blogConfig: {
       category: {
