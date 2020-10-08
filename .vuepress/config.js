@@ -38,7 +38,7 @@ module.exports = {
         items: [
           {
             text: "vuepress-reco",
-            link: "/docs/theme-reco/",
+            link: "/work/theme-reco/",
           },
         ],
       },
@@ -50,6 +50,11 @@ module.exports = {
             text: "GitHub",
             link: "https://github.com/xujiongx",
             icon: "reco-github",
+          },
+          {
+            text: "简历",
+            link: "https://pdf.maitube.com/pdf/?e=agNsU40md9umwa",
+            icon: "reco-document",
           },
         ],
       },

@@ -7,3 +7,13 @@ bgImageStyle: {
   height: '550px'
 }
 ---
+<Love text="富强"/>
+<Love text="明主"/>
+<Love text="明主"/>
+
+<Love text="明主"/>
+<Love text="明主"/>
+<Love text="明主"/>
+
+
+
