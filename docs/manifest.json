@@ -1,9 +1,9 @@
 {
     "name": "断舍离",
-    "short_name": "离",
+    "short_name": "断舍离",
     "description": "热爱生命，简约生活",
-    "display": "standalone",
-    "background_color": "white",
+    "display": "fullscreen",
+    "background_color": "purple",
     "scope": "/",
     "start_url": "/", 
     "icons": [{
