@@ -3,7 +3,7 @@
     "short_name": "断舍离",
     "description": "热爱生命，简约生活",
     "display": "fullscreen",
-    "background_color": "purple",
+    "background_color": "white",
     "scope": "/",
     "start_url": "/", 
     "icons": [{
