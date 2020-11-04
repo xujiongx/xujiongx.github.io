@@ -4,8 +4,7 @@ date: 2020-10-13
 categories:
   - 学习
 tags:
-  - JS
-  - 异步
+  - ts
 ---
 
 ## 学习

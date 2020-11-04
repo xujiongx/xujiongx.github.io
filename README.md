@@ -7,6 +7,3 @@ bgImageStyle: {
   height: '450px'
 }
 ---
-
-
-
