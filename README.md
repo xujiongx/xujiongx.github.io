@@ -1,9 +1,9 @@
 ---
 home: true
-heroText: '断舍离'
-tagline: '热爱生命，简约生活'
+heroText: '人生笔札'
+tagline: '问题驱动，目标导向'
 bgImage: '/bg.jpg'
 bgImageStyle: {
-  height: '450px'
+  height: '650px'
 }
 ---

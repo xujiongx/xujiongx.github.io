@@ -1,6 +1,6 @@
 module.exports = {
-  title: "断舍离",
-  description: "热爱生命，简约生活",
+  title: "人生笔札",
+  description: "问题驱动，目标导向",
   dest: "docs",
   head: [
     [
