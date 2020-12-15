@@ -33,11 +33,11 @@ module.exports = {
         icon: "reco-date",
       },
       {
-        text: "我的作品",
+        text: "文档",
         icon: "reco-message",
         items: [
           {
-            text: "简介",
+            text: "简历介绍",
             link: "/work/About/",
           },
           // {
@@ -54,11 +54,6 @@ module.exports = {
             text: "GitHub",
             link: "https://github.com/xujiongx",
             icon: "reco-github",
-          },
-          {
-            text: "简历",
-            link: "https://pdf.maitube.com/pdf/?e=agNsU40md9umwa",
-            icon: "reco-document",
           },
         ],
       },
